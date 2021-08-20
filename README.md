@@ -1,5 +1,9 @@
 # htmlhints-july21
-htmlhints workshop assignments:
-1.Html Layouts
-2.Form Validation
-3.Weather App using react js
+<h2>htmlhints workshop assignments:</h2>
+
+
+<ol>
+  <li>Html Layouts </li>
+  <li>Form Validation</li>
+  <li>Weather App using react js</li>
+</ol>
